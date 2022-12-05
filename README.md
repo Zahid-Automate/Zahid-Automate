@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 [![Mohammed A Zahid's ](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Automate)](https://github.com/arribass/github-readme-stats)
 
 ![](https://github.com/Zahid-Automate/Zahid-Automate/blob/main/horses-white-horse.gif)
+
+![](https://komarev.com/ghpvc/?username=your-github-Zahid-Automate&label=PROFILE+VIEWS&style=flat-square)
