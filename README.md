@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,selenium,vscode,azure,bash,css,discord,js,react,jenkins,kubernetes,linux,maven,mongodb,mysql,postgres,powershell,docker,aws,nodejs,eclipse,git,gitlab,gherkin,html,figma&theme=light)](https://skillicons.dev)
 
 </p>
+
+<img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=10863237&theme=stackoverflow-light"
+/>
