@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   src="https://stackoverflow-card.vercel.app/?userID=10863237&theme=stackoverflow-light"
 />
 
-[![Mohammed A Zahid's stats](https://github-readme-stats.vercel.app/api?username=Zahid-Automate&count_private=true)](https://github.com/arribass/github-readme-stats)
+[![Mohammed A Zahid's stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zahid-Automate&count_private=true)](https://github.com/arribass/github-readme-stats)
 
-[![Mohammed A Zahid's ](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Automate)](https://github.com/arribass/github-readme-stats)
+[![Mohammed A Zahid's ](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zahid-Automate)](https://github.com/arribass/github-readme-stats)
 
 ![](https://github.com/Zahid-Automate/Zahid-Automate/blob/main/horses-white-horse.gif)
 
