@@ -3,9 +3,9 @@
 I'm an enthusiastic QA, working on Automation is my priority. I'm passionate about coding to make people's daily life more easier.
 I love to learn new things since I got acquainted with programming.
 
-- 🔭 I’m currently working on Automation using Playwright with Typescript, Apart from that I like doing coding in javascript for Cypress and Rest API's using RestAssured and UI automation using Selenium Java
+- 🔭 I’m currently working on Automation using Playwright with Typescript, Apart from that I like doing coding in Javascript Using Cypress and API Automation using Rest Assured/UI Automation using Selenium /DB Automation using OJDBC Selenium Java
 - 🌱 I’m currently learning - How to improve my coding skills every day, as I believe every day is a new learning curve
-- 💻 Along with finding bugs - Writing Readable & Reusable code is my priority.
+- 💻 Along with finding bugs - Writing Readable & Reusable code is my priority. Need to make sure Automated tests take less execution time than Manual :)
 
 <!--
 **Zahid-Automate/Zahid-Automate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
