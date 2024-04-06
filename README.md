@@ -1,4 +1,4 @@
-### Hi there I am Mohammed A Zahid 👋
+### Hi there I am Mohammed A Zahid 👋&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://komarev.com/ghpvc/?username=your-github-Zahid-Automate&label=PROFILE+VIEWS&style=flat-square)
 
 I'm an enthusiastic QA, with more than 15 years in QA, working on Automation :fast_forward: is my top priority. I'm passionate about coding to make people's daily life more easier.
 I love to learn new automation tools :sparkling_heart:	and techniques since I got acquainted with programming.
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 ### Click this [Link](https://forum.uipath.com/u/mzahid/) to my Robotic Process Automation UI Path Forum
 
-![](https://github.com/Zahid-Automate/Zahid-Automate/blob/main/horses-white-horse.gif)
+![](https://github.com/Zahid-Automate/Zahid-Automate/blob/main/horses-white-horse.gif)  
 
-![](https://komarev.com/ghpvc/?username=your-github-Zahid-Automate&label=PROFILE+VIEWS&style=flat-square)
+
