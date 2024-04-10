@@ -6,10 +6,11 @@ I love to learn new automation tools :sparkling_heart:	and techniques since I go
 - 🔭 I’m currently working on Automation using Playwright with Typescript, apart from that I have worked on <br>
       :small_orange_diamond:		 Cypress using JavaScript</br>
       :small_orange_diamond:		 API Automation using Rest Assured</br>
-      :small_orange_diamond:		  UI Automation using Selenium</br>
-      :small_orange_diamond:		  DB Automation using OJDBC Selenium Java</br>
-      :small_orange_diamond:		  Python Robo Framework </br>
+      :small_orange_diamond:		 UI Automation using Selenium</br>
+      :small_orange_diamond:		 DB Automation using OJDBC Selenium Java</br>
+      :small_orange_diamond:		 Python Robo Framework </br>
       :small_orange_diamond:		 RPA UI Path Automation </br>
+      :small_orange_diamond:		 UFT One, formerly known as Micro Focus Unified Functional Testing and QuickTest Professional </br>
 - 🌟 Good exposure to CI/CD(devops) with hands-on experience on Jenkins pipelines, Docker, Kubernates, Git, AWS, SVN, Bitbucket, Teamcity</p>
 - 💻 Along with finding bugs - Writing Readable & Reusable code is my priority. I always make sure Automated tests take less execution time than Manual :diamonds:
 - :medal_sports:	I try my level best to improve my coding skills every day, as I believe every day is a new learning
