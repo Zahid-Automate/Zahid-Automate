@@ -30,11 +30,14 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 
-<p align="center">
+<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/37cb517e-d059-4cc0-8124-1a72b663167c"> <img height="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"> 
 
-[![My Skills](https://skillicons.dev/icons?i=java,selenium,vscode,azure,bash,css,discord,js,react,jenkins,kubernetes,linux,maven,mongodb,mysql,postgres,powershell,docker,aws,nodejs,eclipse,git,gitlab,gherkin,html,figma&theme=light)](https://skillicons.dev)
 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,selenium,cypress,androidstudio,vscode,idea,pycharm,eclipse,azure,bash,css,discord,js,react,jenkins,kubernetes,linux,maven,mongodb,mysql,postgres,powershell,docker,aws,nodejs,postman,git,gitlab,gherkin,html,figmaa&theme=light)](https://skillicons.dev)
+
+
+
+
 
 <img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=10863237&theme=stackoverflow-light"
