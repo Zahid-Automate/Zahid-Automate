@@ -5,6 +5,7 @@ I love to learn new automation tools :sparkling_heart:	and techniques since I go
 
 - 🔭 I’m currently working on Automation using Playwright with Typescript, apart from that I have worked on <br>
       :small_orange_diamond:		 Cypress using JavaScript</br>
+      :small_orange_diamond:		 Mobile Automation using Appium Webdriver.io</br>
       :small_orange_diamond:		 API Automation using Rest Assured</br>
       :small_orange_diamond:		 UI Automation using Selenium</br>
       :small_orange_diamond:		 DB Automation using OJDBC Selenium Java</br>
