@@ -37,19 +37,21 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,selenium,cypress,androidstudio,vscode,idea,pycharm,eclipse,azure,bash,css,discord,js,react,jenkins,kubernetes,linux,maven,mongodb,mysql,postgres,powershell,docker,aws,nodejs,postman,git,gitlab,gherkin,html,figmaa&theme=light)](https://skillicons.dev)
 
 
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=10863237)
+
+<a href="https://github.com/Zahid-Automate/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zahid-Automate&count_private=true&show_icons=true&include_all_commits=true&theme=buefy" />
+</a>
+<a href="https://github.com/Zahid-Automate/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zahid-Automate&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
-<img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=10863237&theme=stackoverflow-light"
-/>
 
-[![Mohammed A Zahid's stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zahid-Automate&count_private=true)](https://github.com/arribass/github-readme-stats)
+### Click [Link](https://forum.uipath.com/u/mzahid/) to my Robotic Process Automation UI Path Forum
 
-[![Mohammed A Zahid's ](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zahid-Automate)](https://github.com/arribass/github-readme-stats)
-
-### Click this [Link](https://forum.uipath.com/u/mzahid/) to my Robotic Process Automation UI Path Forum
-
-![](https://github.com/Zahid-Automate/Zahid-Automate/blob/main/horses-white-horse.gif)  
-
+<p align="center">
+  <img src="https://github.com/Zahid-Automate/Zahid-Automate/blob/main/horses-white-horse.gif?raw=true" alt="Sublime's custom image"/>
+</p>
 
