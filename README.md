@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=10863237)
 
 <a href="https://github.com/Zahid-Automate/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zahid-Automate&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=buefy" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zahid-Automate&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=buefy&hide_border=true" />
 </a>
 <a href="https://github.com/Zahid-Automate/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zahid-Automate&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zahid-Automate&layout=compact&langs_count=8&card_width=320&hide_border=true" />
 </a>
 
 
