@@ -9,7 +9,7 @@ I love to learn new automation tools :sparkling_heart:	and techniques since I go
       :small_orange_diamond:		 API Automation using Rest Assured</br>
       :small_orange_diamond:		 UI Automation using Selenium</br>
       :small_orange_diamond:		 DB Automation using OJDBC Selenium Java</br>
-      :small_orange_diamond:		 Python Robo Framework </br>
+      :small_orange_diamond:		 Python Robot Framework </br>
       :small_orange_diamond:		 RPA UI Path Automation </br>
       :small_orange_diamond:		 UFT One, formerly known as Micro Focus Unified Functional Testing and QuickTest Professional </br>
 - 🌟 Good exposure to CI/CD(devops) with hands-on experience on Jenkins pipelines, Docker, Kubernates, Git, AWS, SVN, Bitbucket, Teamcity</p>
