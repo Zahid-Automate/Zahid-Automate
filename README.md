@@ -1,9 +1,9 @@
 ### Hi there I am Mohammed A Zahid 👋&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://komarev.com/ghpvc/?username=your-github-Zahid-Automate&label=PROFILE+VIEWS&style=flat-square)
 
-I'm an enthusiastic QA, with more than 15 years in QA, working on Automation :fast_forward: is my top priority. I'm passionate about coding to make people's daily life more easier.
+I'm an enthusiastic QA, with more than 16 years in QA, working on Automation :fast_forward: is my top priority. I'm passionate about coding to make people's daily life more easier.
 I love to learn new automation tools :sparkling_heart:	and techniques since I got acquainted with programming.
 
-- 🔭 I’m currently working on Automation using Playwright with Typescript, apart from that I have worked on <br>
+- 🔭 I’m currently working on Automation using Playwright with Typescript/Javascript, apart from that I have worked on <br>
       :small_orange_diamond:		 Cypress using JavaScript</br>
       :small_orange_diamond:		 Mobile Automation using Appium Webdriver.io</br>
       :small_orange_diamond:		 API Automation using Rest Assured</br>
@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Zahid-Automate/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zahid-Automate&layout=compact&langs_count=8&card_width=320&hide_border=true" />
 </a>
-
-
-
 
 ### Click [Link](https://forum.uipath.com/u/mzahid/) to my Robotic Process Automation UI Path Forum
 
